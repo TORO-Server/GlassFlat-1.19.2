@@ -1,0 +1,22 @@
+{
+    "type": "world:glass_flat",
+    "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+            "layers": [
+                {
+                    "block": "minecraft:cave_air",
+                    "height": 65
+                },
+                {
+                    "block": "minecraft:glass",
+                    "height": 1
+                }
+            ],
+            "biome": "minecraft:the_void",
+            "lakes": false,
+            "features": false,
+            "structures": {}
+        }
+    }
+}
